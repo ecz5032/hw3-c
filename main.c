@@ -19,3 +19,4 @@ int main(void) {
   int init_num = atof(num);
   int fin_num = digit_sum(init_num);
   printf("sum of digits of %d. is %d\n", init_num, fin_num);
+}
