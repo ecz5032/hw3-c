@@ -1,4 +1,4 @@
-//Author: Eric Zhang ecz5032@psu.edu
+//Author: Eric Zhang ecz5032@psu.edu 
 
 #include <stdio.h>
 #include <readline/readline.h>
