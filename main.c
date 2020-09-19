@@ -1,5 +1,5 @@
 //Author: Eric Zhang ecz5032@psu.edu 
-//test
+
 
 #include <stdio.h>
 #include <readline/readline.h>
@@ -14,6 +14,8 @@ int digit_sum(int n){
     return z + digit_sum(n/10);
   }
 }
+
+//test
 
 int main(void) {
   char *num = readline("Enter an int: ");
